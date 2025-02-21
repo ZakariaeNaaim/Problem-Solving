@@ -1,0 +1,13 @@
+﻿  Main.cpp
+C:\Users\LEGION\Documents\GitHub\Cpp\Learning\Main.cpp(549,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\LEGION\Documents\GitHub\Cpp\Learning\Main.cpp(579,27): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\LEGION\Documents\GitHub\Cpp\Learning\Main.cpp(594,26): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\LEGION\Documents\GitHub\Cpp\Learning\Main.cpp(612,26): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\LEGION\Documents\GitHub\Cpp\Learning\Main.cpp(630,26): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\LEGION\Documents\GitHub\Cpp\Learning\Main.cpp(643,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\LEGION\Documents\GitHub\Cpp\Learning\Main.cpp(699,25): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\LEGION\Documents\GitHub\Cpp\Learning\Main.cpp(714,26): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\LEGION\Documents\GitHub\Cpp\Learning\Main.cpp(878,33): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\LEGION\Documents\GitHub\Cpp\Learning\Main.cpp(967): warning C4715: 'DeleteClientByAccountNumber': not all control paths return a value
+C:\Users\LEGION\Documents\GitHub\Cpp\Learning\Main.cpp(1019): warning C4715: 'UpdateClientByAccountNumber': not all control paths return a value
+  Learning.vcxproj -> C:\Users\LEGION\Documents\GitHub\Cpp\Learning\x64\Debug\Learning.exe

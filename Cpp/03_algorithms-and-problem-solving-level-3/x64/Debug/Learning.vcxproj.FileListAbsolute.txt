@@ -1,0 +1,2 @@
+C:\Users\LEGION\Documents\GitHub\C++\Learning\x64\Debug\Learning.exe
+C:\Users\LEGION\Documents\GitHub\Cpp\Learning\x64\Debug\Learning.exe
